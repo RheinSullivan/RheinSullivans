@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 Assalamu'alaikum, I'm Muhammad Rizky Ramadhan (Rhein Sullivan)</h1>
+<h1 align="center">Hi Assalamu'alaikum 👋 <br/>I'm Muhammad Rizky Ramadhan (Rhein Sullivan)</h1>
 <h3 align="center">I am a frontend developer at 7TogkID, and I am also a frontend and 3d model, in Denasty Studio team.</h3>
 
 - 🔭 I’m currently working on [Website Wedding Invitation](https://zahra-rizky-wedding-invitation.vercel.app/)
